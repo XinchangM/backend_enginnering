@@ -14,4 +14,4 @@
 
 ### UML Diagram
 
-![UML Diagram](./assets/uml.png)
+![UML Diagram](./asset/uml.png)
